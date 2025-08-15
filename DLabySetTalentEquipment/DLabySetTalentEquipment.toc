@@ -1,4 +1,4 @@
-## Interface: 110002
+## Interface: 110200
 ## Author: DLabyGmr
 ## Notes: Automatically equips item sets with the same name than talent sets
 ## Title: DLabySetTalentEquipment
@@ -6,3 +6,4 @@
 ## SavedVariablesPerCharacter: TalentEquipDB
 
 DLabySetTalentEquipment.lua
+
